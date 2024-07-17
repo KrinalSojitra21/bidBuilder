@@ -6,23 +6,20 @@
 
 ![BidBuilder](https://imgur.com/Dzx9i2V.png)
 
-BidBuilder - A cutting-edge bidding platform that revolutionizes the way users participate in auctions and manage bids. With real-time updates, secure transactions, and an intuitive interface, BidBuilder offers a seamless experience for both buyers and sellers.
+Create winning proposals with our AI-powered Upwork proposal generator within minutes. Get more clients and grow your business. Try it now for free!
 
 ![BidBuilder](https://imgur.com/Uv2hjo3.png)
 
 # Features ✨
 
-- **Real-Time Bidding:** Participate in live auctions with instant updates and notifications.
+Smart Proposal Creation: Automatically generates well-crafted proposals based on job titles and descriptions.
 
-- **User-Friendly Dashboard:** Manage your bids, listings, and account information effortlessly.
+Personalized Proposals: Tailors proposals using freelancer's skills and job details for a personalized touch.
 
-- **Secure Payment Integration:** Safely process transactions with our Stripe integration.
+Time-Saving: Provides a quick and efficient solution, saving freelancers valuable time in proposal creation.
 
-- **Advanced Search and Filters:** Find exactly what you're looking for with powerful search - capabilities.
-
-- **Responsive Design:** Enjoy a seamless experience across all devices and screen sizes.
-
-- **Bidding History and Analytics:** Track your bidding patterns and success rates.
+Customization: Offers options for a friendly or professional tone tailored to suit different client preferences, whether new to Upwork or invited to the job.
+.
 
 ## Tech Stack 💻
 
@@ -33,6 +30,8 @@ BidBuilder - A cutting-edge bidding platform that revolutionizes the way users p
 - **Redux & Redux Toolkit:** State management for a predictable application state.
 
 - **Next.js:** Providing server-side rendering and optimized performance.
+
+- **OpenAI API:** For generating AI-powered content.
 
 - **MongoDB:** Our database of choice for flexible and scalable data storage.
 
